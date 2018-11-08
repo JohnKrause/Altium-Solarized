@@ -1,5 +1,5 @@
 # Altium-Solarized
--------------------
+
 Solarized Color palette as developed by Ethan Schoonover https://ethanschoonover.com/solarized/
 Color scheme ported to Altium Designer by John R Krause
 
