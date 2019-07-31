@@ -1,4 +1,4 @@
-Solarized Colorscheme for Altium Design
+Solarized Colorscheme for Altium Designer
 ==============================
 
 Developed by Ethan Schoonover <es@ethanschoonover.com>
