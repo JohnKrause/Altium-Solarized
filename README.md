@@ -1,7 +1,8 @@
 Solarized Colorscheme for Altium Designer
 ==============================
 
-Developed by Ethan Schoonover <es@ethanschoonover.com>
+Developed by Ethan Schoonover <es@ethanschoonover.com>  
+
 Ported to Altium by John Krause [https://github.com/JohnKrause]
 
 See the [homepage for the Solarized colorscheme][solarized] for versions for 
